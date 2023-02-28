@@ -73,7 +73,6 @@ Attributes
 
 
 .. py:data:: parameters
-   
 
    parameters from the secure command processor(SCCP).
 

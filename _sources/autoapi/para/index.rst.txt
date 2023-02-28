@@ -39,17 +39,15 @@ Attributes
 
 
 .. py:data:: _debug
-   :annotation: = True
+   :value: True
 
    
 
 .. py:data:: parameters
-   
 
    
 
 .. py:data:: return_code
-   
 
    
 
